@@ -1,17 +1,57 @@
-# Bionics Club Workshop Code
+# WPI Bionics Club
 
-This repository holds the code for all of our workshops. Each workshop gets it's own folder and each folder/workshop should be listed here with a quick description of when it happened and other information.
+Welcome to the Bionics Club GitHub repository! This repository serves as a central hub for our club's projects, resources, and collaborative efforts.
 
-## Workshops
+## Table of Contents
 
-### Intermediate Microcontroller Workshop (Seeed Studio Xiao SAMD21) - 2/16/2023
+- [About](#about)
+- [Projects](#projects)
+- [Getting Started](#getting-started)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Community](#community)
+- [License](#license)
 
-**Folder name:** Intermediate_Workshop-SeeedSAMD21_Project
+## About
 
-**Description:** This workshop used the Seeed Studio Xiao SAMD21 board to control an I2C screen and a QTouch (capacative touch) button. The project code is a game called "Defender Donna". For more information on wiring and setup, contact the WPI Bionics Club Exec board!
+The Bionics Club is dedicated to exploring and advancing the field of bionics, where biology meets technology. We aim to foster a community of enthusiasts, share knowledge, and work on exciting projects that push the boundaries of assistive technology.
 
-### Beginner Microcontroller Workshop (Arduino Nano) - 2/16/2023
+## Projects
 
-**Folder name:** coming soon!
+Here, you can find details about ongoing and past projects. Each project has its own directory with relevant documentation, code, and resources.
 
-**Description:** coming soon!
+- [Project 1: Project Name](./projects/project1)
+- [Project 2: Project Name](./projects/project2)
+
+Feel free to explore, contribute, and collaborate on our projects!
+
+## Getting Started
+
+If you're new to the Bionics Club or GitHub, here's how you can get started:
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/bionics-club.git
+   ```
+2. Navigate to the project you're interested in:
+   ```bash
+   cd bionics-club/projects/project1
+   ```
+3. Follow the project-specific instructions in the project's README for setup and contribution guidelines.
+
+## Contribution Guidelines
+
+We welcome contributions from all members! Whether you're fixing a bug, implementing a new feature, or improving documentation, your efforts are valued. Please review our Contribution Guidelines for more details.
+
+## Community
+
+Join our community discussions and stay updated:
+
+    [Discord](https://discord.gg/nbdTXUbFf9)
+
+Feel free to ask questions, share ideas, and connect with other members!
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Happy bionicking!
