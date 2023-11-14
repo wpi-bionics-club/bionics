@@ -19,8 +19,7 @@ The Bionics Club is dedicated to exploring and advancing the field of bionics, w
 
 Here, you can find details about ongoing and past projects. Each project has its own directory with relevant documentation, code, and resources.
 
-- [Project 1: Project Name](./projects/project1)
-- [Project 2: Project Name](./projects/project2)
+- [Bionic Finger Tutorial](./workshops/FingerFlexExample/)
 
 Feel free to explore, contribute, and collaborate on our projects!
 
@@ -46,7 +45,7 @@ We welcome contributions from all members! Whether you're fixing a bug, implemen
 
 Join our community discussions and stay updated:
 
-    [Discord](https://discord.gg/nbdTXUbFf9)
+- [Discord](https://discord.gg/nbdTXUbFf9)
 
 Feel free to ask questions, share ideas, and connect with other members!
 
