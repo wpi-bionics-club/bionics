@@ -45,7 +45,7 @@ We welcome contributions from all members! Whether you're fixing a bug, implemen
 
 Join our community discussions and stay updated:
 
-- [Discord](https://discord.gg/nbdTXUbFf9)
+- [Discord](https://discord.gg/hUWWhu5Y)
 
 Feel free to ask questions, share ideas, and connect with other members!
 
