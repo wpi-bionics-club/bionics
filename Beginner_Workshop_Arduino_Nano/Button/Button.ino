@@ -12,11 +12,11 @@ Tools --> Processor --> ATMega 328P (Old Bootloader)
 */
 
 // variable definitions
-
 #define BUTTON 2
 #define PIN1 5
 #define PIN2 6
 #define PIN3 7
+int clicks = 0;
 
 void setup() {
   // put your setup code here, to run once:
@@ -32,18 +32,18 @@ void setup() {
   will return 0.
 */
   pinMode(BUTTON, INPUT_PULLUP); 
-  
   pinMode(PIN1, OUTPUT); // Pin 5 as output
   pinMode(PIN2, OUTPUT); // Pin 6 as output
   pinMode(PIN3, OUTPUT); // Pin 7 as output
 
 // you must set the LEDs off at the beginning of your program.
-
   digitalWrite(PIN1, LOW);
   digitalWrite(PIN2, LOW);
   digitalWrite(PIN3, LOW);
 }
-int clicks = 0;
+
+
+
 void loop() {
   // put your main code here, to run repeatedly:
   
